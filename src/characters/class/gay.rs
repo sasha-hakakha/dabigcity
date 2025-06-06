@@ -1,0 +1,3 @@
+struct Gay {
+    todo: String,
+}

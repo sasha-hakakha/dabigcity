@@ -1,0 +1,3 @@
+struct Influencer {
+    todo: String,
+}

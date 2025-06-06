@@ -1,0 +1,3 @@
+struct Burnout {
+    todo: String,
+}

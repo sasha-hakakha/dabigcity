@@ -1,0 +1,3 @@
+struct Schizo {
+    todo: String,
+}

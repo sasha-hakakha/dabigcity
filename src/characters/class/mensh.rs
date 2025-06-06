@@ -1,0 +1,3 @@
+struct Mensh {
+    todo: String,
+}

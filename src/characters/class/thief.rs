@@ -1,0 +1,3 @@
+struct Thief {
+    todo: String,
+}
